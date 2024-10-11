@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aleyeali.github.io/sitemap.html.gz
+Sitemap: https://aleyeali.github.io/app/sitemap.html.gz
+Sitemap: https://aleyeali.github.io/assets/sitemap.html.gz
+Sitemap: https://aleyeali.github.io/css/sitemap.html.gz
+Sitemap: https://aleyeali.github.io/includes/sitemap.html.gz
+Sitemap: https://aleyeali.github.io/item/sitemap.html.gz
+Sitemap: https://aleyeali.github.io/src/sitemap.html.gz
